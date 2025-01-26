@@ -2,20 +2,20 @@ package main
 
 import (
 	"fmt"
-	"modulo/auxiliar"
+	"modulo/assistant"
 
 	"github.com/badoux/checkmail"
 )
 
 func main() {
-	fmt.Println("Escrevendo primeiro modulo em Go!")
-	auxiliar.Escrevendo()
+	fmt.Println("Writing first module in Go!")
+	assistant.Writing()
 
 	err := checkmail.ValidateFormat("rereewrwe")
 
 	if err != nil {
 		fmt.Println(err.Error())
 	} else {
-		fmt.Println("E-mail valido")
+		fmt.Println("E-mail invalid")
 	}
 }
