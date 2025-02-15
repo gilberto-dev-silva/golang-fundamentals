@@ -1,7 +1,9 @@
 <table>
   <tr>
     <td><img src="https://raw.githubusercontent.com/gilberto-dev-silva/golang-fundamentals/main/image/go.png" width="80"></td>
-    <td><strong style="font-size: 30px;">Golang Fundamentals</strong></td>
+    <td><strong style="font-size: 40px;">
+		Golang Fundamentals
+		</strong></td>
   </tr>
 </table>
 
