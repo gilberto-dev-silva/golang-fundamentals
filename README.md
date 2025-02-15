@@ -1,7 +1,8 @@
-<div style="display: flex; align-items: center; border-bottom: 1px solid; margin-bottom: 10px;
-">
-    <img src="image/go.png" width="80">
-    <span style="margin-left: 10px; font-size: 30px; font-weight: 600; margin: 0">Golang Fundamentals</span>
-</div>
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/gilberto-dev-silva/golang-fundamentals/main/image/go.png" width="80"></td>
+    <td><strong style="font-size: 30px;">Golang Fundamentals</strong></td>
+  </tr>
+</table>
 
 This repository contains notes, code examples and exercises on the fundamentals of the Go (Golang) language. The goal is to consolidate learning and serve as a reference for future projects.
